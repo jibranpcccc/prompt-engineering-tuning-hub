@@ -4,10 +4,17 @@
     <title>Prompt Engineering &amp; LLM Tuning Hub</title>
     <link>https://prompt-engineering-tuning-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 08:31:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:04:35 GMT</lastBuildDate>
     <atom:link href="https://prompt-engineering-tuning-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-        <item>
+            <item>
+      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
+      <link>https://discord.gg/typescript</link>
+      <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-discord-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 14:04:35 GMT</pubDate>
+      <description>Newly verified community added to Prompt Engineering &amp; LLM Tuning Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
       <link>https://www.reddit.com/r/typescript/</link>
       <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-reddit-20260913-1-2026-09-13</guid>
