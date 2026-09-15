@@ -1,17 +1,17 @@
 [
   {
     "id": "prompt-engineering-tuning-hub-discord-20260915-1",
-    "title": "Devcord Web Developers",
+    "title": "Learn Prompting Official Discord",
     "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "category": "Prompt Engineering",
+    "memberCount": "62,000+ members",
+    "description": "Active Discord server for prompt engineering practitioners, fine-tuning LLMs, retrieval augmented generation (RAG), and eval pipelines.",
+    "joinUrl": "https://discord.gg/learnprompting",
     "tags": [
-      "webdev",
+      "prompting",
+      "ai",
       "discord",
-      "fullstack",
-      "design"
+      "llm"
     ],
     "verified": true,
     "featured": true,
