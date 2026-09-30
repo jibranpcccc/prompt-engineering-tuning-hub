@@ -4,10 +4,17 @@
     <title>Prompt Engineering &amp; LLM Tuning Hub</title>
     <link>https://prompt-engineering-tuning-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 06:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:18:30 GMT</lastBuildDate>
     <atom:link href="https://prompt-engineering-tuning-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                    <item>
+                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/docker Containers (Reddit)</title>
+      <link>https://www.reddit.com/r/docker/</link>
+      <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-reddit-20260930-1-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 06:18:30 GMT</pubDate>
+      <description>Newly verified community added to Prompt Engineering &amp; LLM Tuning Hub: Guides, Dockerfile optimization, multi-stage builds, and Docker Compose architectures for modern microservices.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/kubernetes Cloud Native (Reddit)</title>
       <link>https://www.reddit.com/r/kubernetes/</link>
       <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-reddit-20260929-1-2026-09-29</guid>
