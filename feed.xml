@@ -4,10 +4,17 @@
     <title>Prompt Engineering &amp; LLM Tuning Hub</title>
     <link>https://prompt-engineering-tuning-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:04:08 GMT</lastBuildDate>
     <atom:link href="https://prompt-engineering-tuning-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-reddit-20261010-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:04:08 GMT</pubDate>
+      <description>Newly verified community added to Prompt Engineering &amp; LLM Tuning Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
       <link>https://www.reddit.com/r/science/</link>
       <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-reddit-20261009-1-2026-10-09</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:31:58 GMT</pubDate>
       <description>Newly verified community added to Prompt Engineering &amp; LLM Tuning Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>Prompt Engineering &amp; LLM Tuning Hub Initial Release</title>
-      <link>https://prompt-engineering-tuning-hub.netlify.app/</link>
-      <pubDate>Fri, 11 Sep 2026 11:06:46 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
