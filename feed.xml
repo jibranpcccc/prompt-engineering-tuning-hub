@@ -4,10 +4,17 @@
     <title>Prompt Engineering &amp; LLM Tuning Hub</title>
     <link>https://prompt-engineering-tuning-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 06:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:27:07 GMT</lastBuildDate>
     <atom:link href="https://prompt-engineering-tuning-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-forum-20261015-1-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 06:27:07 GMT</pubDate>
+      <description>Newly verified community added to Prompt Engineering &amp; LLM Tuning Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-forum-20261015-1-2026-11-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-forum-20261015-1-2026-10-15</guid>
       <pubDate>Thu, 15 Oct 2026 06:04:11 GMT</pubDate>
       <description>Newly verified community added to Prompt Engineering &amp; LLM Tuning Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
-      <link>https://t.me/techcrunch</link>
-      <guid isPermaLink="false">https://prompt-engineering-tuning-hub.netlify.app/#prompt-engineering-tuning-hub-telegram-20261013-1-2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 06:04:17 GMT</pubDate>
-      <description>Newly verified community added to Prompt Engineering &amp; LLM Tuning Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
     </item>
   </channel>
 </rss>
